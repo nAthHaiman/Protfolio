@@ -1,0 +1,219 @@
+
+.back{
+   background-color: rgb(46, 42, 42);
+    height: 60px;
+}
+.logo{
+    text-decoration: none;
+    color: rgb(115, 211, 115);
+    font-size: 30px;
+    font-weight: bold;
+    margin: 20px 100px;
+
+
+}
+.logo:hover{
+    color: white;
+    
+}
+.item{
+    color: rgb(115, 211, 115);;
+}
+.item:hover{
+    color:white
+}
+.switch{
+    margin-right:  50px;
+    color: rgb(115, 211, 115);;
+}
+.switch:hover{
+    color:white
+}
+.heading{
+ 
+    font-size: 50px;
+    font-weight: bold;
+    color: blue;
+}
+.shortnote{
+    color : black;
+    font-size: 25px ;
+    font-weight: bold;
+}
+.main{
+    margin-left: 70px;
+    margin-top: 90px;
+}
+.paragraph{
+    width: 900px;
+    font-size: 25px;
+    margin-top: 30px;
+}
+.photo{
+    border-radius: 50%;
+    width: 100%;
+}
+
+.imagework{
+    margin-right: 30px;
+    margin-top: 70px;
+    width: 40%;
+}
+.parentofgrid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    row-gap: 10px;
+    column-gap: 10px;
+    
+}
+.cardofgrid {
+    background-color: black;
+     color: white  ;
+    border-radius: 30px;
+    padding: 15px 30px;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 40px;
+}
+.title
+{
+    font-size: 50px;
+    color: blue;
+    font-weight: bold;
+    margin-left: 650px;
+    margin-right: 650px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.titleskill{
+    font-size: 50px;
+    color: blue;
+    font-weight: bold;
+    margin-left: 700px;
+    margin-right: 650px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.front{
+  width: 70%;
+  border-radius: 10%;
+  margin-left: 40px;
+  margin-bottom: 20px;
+}
+.content{
+    width: 70%;
+    border-radius: 10%;
+    margin-left: 40px;
+    margin-bottom: 20px;
+  }
+  .video{
+    width: 70%;
+    border-radius: 10%;
+    margin-left: 40px;
+    margin-bottom: 20px;
+  }
+  .code{
+    width: 70%;
+    border-radius: 10%;
+    margin-left: 40px;
+    margin-bottom: 20px;
+
+  }
+  .event{
+    width: 70%;
+    border-radius: 10%;
+    margin-left: 40px;
+    margin-bottom: 20px;
+
+  }
+  .account{
+    width: 70%;
+    border-radius: 10%;
+    margin-left: 40px;
+    margin-bottom: 20px;
+
+  }
+  .language{
+    width: 70%;
+    border-radius: 10%;
+    margin-left: 40px;
+    margin-bottom: 20px;
+  }
+  .arrange{
+    width: 70%;
+    border-radius: 10%;
+    margin-left: 40px;
+    margin-bottom: 20px;
+
+  }
+  .endtitle{
+    font-size: 50px;
+    color: blue;
+    font-weight: bold;
+    margin-left: 100px;
+    margin-right: 600px;
+    margin-top: 80px;
+    margin-bottom: 50px;
+    text-decoration: underline;
+}
+ .allinfo{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+   row-gap: 10px;
+   column-gap: 5px;
+ } 
+ .contact{
+    background-color:  rgb(85, 78, 78);
+    color: white;
+    padding: 15px 80px;
+    margin-left: 90px;
+    margin-right: 30px;
+    border-radius: 50px;
+    
+ }
+ .parentcontact{
+    display: flex;
+ }
+ .form{
+    background-color:  rgb(85, 78, 78);
+    padding: 40px;
+    margin-left: 150px;
+    border-radius: 20px;
+
+ }
+ .switch{
+    background-color: black;
+    color:white;
+    padding: 10px;
+ }
+ .switch:hover{
+    color: rgb(85, 78, 78);
+
+ }
+.carousel {
+    width: 30%;
+}
+.slidehead{
+    font-size: 50px;
+    color: blue;
+    font-weight: bold;
+    margin-left: 600px;
+    margin-right: 500px;
+    margin-top: 60px;
+    margin-bottom: 40px;
+    text-decoration: underline;
+
+}
+.captionslide{
+    background-color:white;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 3px;
+}
+.card{
+    background-color: black;
+    margin-top: 70px ;
+    height: 200px;
+    color: rgb(115, 211, 115);
+}
